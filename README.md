@@ -69,5 +69,5 @@
 </p>
 
 <p align="center">
-  🧡 *Thanks for stopping by! Drop a ⭐ on interesting repos and let's grow together in tech!*
+  🧡 *Thanks for stopping by! Let's grow together in tech!*
 </p>
