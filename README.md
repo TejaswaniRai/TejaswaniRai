@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Full Stack Developer | AI/ML Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Tejaswani+Rai;3rd+Year+CS+Student+at+Brainware+University;Passionate+about+AI/ML,+Backend+and+Web+Dev;&center=true&width=500&height=45&color=fc036f&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FC036F&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Tejaswani+Rai;3rd+Year+CS+Student+at+Brainware+University;Passionate+about+AI%2FML%2C+Backend+and+Web+Dev" />
 </p>
 
 ## 👩‍🎓 About Me
