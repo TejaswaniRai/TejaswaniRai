@@ -53,7 +53,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswanirai&layout=compact&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tejaswanirai&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
