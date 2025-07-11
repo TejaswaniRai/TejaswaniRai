@@ -64,9 +64,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tejaswanirai&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
 
 <p align="center">
   🧡 *Thanks for stopping by! Let's grow together in tech!*
