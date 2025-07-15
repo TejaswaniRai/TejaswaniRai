@@ -20,7 +20,7 @@
 ## 🌟 Featured Projects
 
 - 🔒 **career-spark** – A private job portal platform (in development)
-- 🎮 **tic-tac-tac** – Classic game built with web technologies
+- 🎮 **DuoDash** – Classic game built with web technologies
 - 🍔 **brainware-canteen** – [XiBit - Texibition 2K25] Group hackathon project forked and enhanced from original repositories
 
 > 🚧 More projects are on the way — stay tuned!
