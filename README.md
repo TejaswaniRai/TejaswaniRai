@@ -22,6 +22,7 @@
 - 🔒 **career-spark** – A private job portal platform (in development)
 - 🎮 **DuoDash** – Classic game built with web technologies
 - 🍔 **brainware-canteen** – [XiBit - Texibition 2K25] Group hackathon project forked and enhanced from original repositories
+- 💸 **Fintasm** - Fintasm is a playful, mobile-first web app that reimagines personal finance for Gen Z. 
 
 > 🚧 More projects are on the way — stay tuned!
 
