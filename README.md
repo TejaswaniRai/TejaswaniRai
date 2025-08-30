@@ -20,14 +20,11 @@
 
 ## 🌟 Featured Projects
 
-- 🎮 **DuoDash** – A retro-inspired web game  
-- 🍔 **Brainware Canteen** – Group hackathon project [XiBit - Texibition 2K25] with enhancements beyond the original repo  
-- 💸 **Fintasm** – A mobile-first finance app reimagining personal money management for Gen Z  
-- 📄 **Paper Ranking** – AI-powered tool to rank research papers based on novelty and impact  
-- 🧪 **Synthetic Data Generator** – Generate datasets for research metrics  
-  <p align="center">
-    <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Synthetic Data GIF" width="400"/>
-  </p>
+- 🎮 **DuoDash** – A retro-inspired web game.
+- 🍔 **Brainware Canteen** – Group hackathon project [XiBit - Texibition 2K25] with enhancements beyond the original repo.
+- 💸 **Fintasm** – Solo hackathon project [Nebula Nexus], a mobile-first finance app reimagining personal money management for Gen Z.  
+- 📄 **Paper Ranking** – AI-powered tool to rank research papers based on novelty and impact.
+- 🧪 **Synthetic Data Generator** – Generates realistic datasets to evaluate research metrics and reproducibility.
 > 🚧 More projects coming soon — stay tuned!
 
 ---
