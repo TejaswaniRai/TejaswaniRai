@@ -1,7 +1,7 @@
 <h1 align="center">✨ Tejaswani Rai ✨</h1>
----
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FC036F&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Tejaswani+Rai;CSE+Undergrad+(AI/ML)+at+Brainware+University;🚀Exploring+AI%2FML%2C+Full+Stack+Dev+%26+Open+Source" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FC036F&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Tejaswani+Rai;CSE+Undergrad+(AI/ML)+at+Brainware+University;Exploring+AI%2FML%2C+Full+Stack+Dev+%26+Open+Source" />
 </p>
 
 ---
