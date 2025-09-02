@@ -61,7 +61,6 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswanirai&layout=compact&theme=tokyonight&hide_border=true" />
   <br/>
-   ![Tejaswani's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=68584c16-7920-45bf-817d-5a510ebb42ba&theme=radical)
 </p>
 
 ---
