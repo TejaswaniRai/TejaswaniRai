@@ -61,7 +61,8 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswanirai&layout=compact&theme=tokyonight&hide_border=true" />
   <br/>
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+   ![Tejaswani's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TejaswaniRai&theme=radical)
+
 </p>
 
 ---
