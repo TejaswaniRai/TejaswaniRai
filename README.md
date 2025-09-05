@@ -21,7 +21,7 @@
 
   </div>
 
-  <img src="https://github.com/TejaswaniRai/TejaswaniRai/blob/main/Coding%20Working%20On%20It%20GIF%20by%20Grind.gif?raw=true" width="250"/>
+  <img src="https://github.com/TejaswaniRai/TejaswaniRai/blob/main/Coding%20Working%20On%20It%20GIF%20by%20Grind.gif?raw=true" align-items: right width="250"/>
 </div>
 
 
