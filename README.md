@@ -7,14 +7,26 @@
 ---
 
 ## 👩‍🎓 About Me
-<img src="Coding%20Working%20On%20It%20GIF%20by%20Grind.gif" align="right" width="300" />
-- 🎓 **3rd Year Computer Science (AI/ML) Student** at **Brainware University**
-- 💡 Exploring the intersection of **AI/ML**, **Full Stack Development**, and **Product Thinking**
-- 🤝 Open to **collaborations** in open-source, hackathons, and innovative startups
-- 🏆 Experience in national-level hackathons including:
-  - **Smart India Hackathon (SIH)**
-  - **InnoFusion 2.0**
-  - **IIC B-Plan Pitch Competition (NIT Durgapur)**
+
+<table>
+  <tr>
+    <td width="60%">
+      
+- 🎓 **3rd Year Computer Science (AI/ML) Student** at **Brainware University**  
+- 💡 Exploring the intersection of **AI/ML**, **Full Stack Development**, and **Product Thinking**  
+- 🤝 Open to **collaborations** in open-source, hackathons, and innovative startups  
+- 🏆 Experience in national-level hackathons including:  
+  - **Smart India Hackathon (SIH)**  
+  - **InnoFusion 2.0**  
+  - **IIC B-Plan Pitch Competition (NIT Durgapur)**  
+
+    </td>
+    <td width="40%">
+      <img src="assets/grinding.gif" width="250" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
