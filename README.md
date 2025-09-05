@@ -22,7 +22,7 @@
 
     </td>
     <td width="40%">
-      <img src="assets/grinding.gif" width="250" />
+      <img src="file:///C:/Users/User/Downloads/Coding%20Working%20On%20It%20GIF%20by%20Grind.gif" width="250" />
     </td>
   </tr>
 </table>
