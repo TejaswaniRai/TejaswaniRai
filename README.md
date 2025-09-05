@@ -8,7 +8,7 @@
 
 ## 👩‍🎓 About Me
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: left; justify-content: space-between;">
   <div>
 
 - 🎓 **3rd Year Computer Science (AI/ML)** Student at Brainware University  
