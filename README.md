@@ -4,20 +4,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FC036F&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Tejaswani+Rai;CSE+Undergrad+(AI/ML)+at+Brainware+University;Exploring+AI%2FML%2C+Full+Stack+Dev+%26+Open+Source" />
 </p>
 
----
-
 ## 👩‍🎓 About Me
 
-<img align="right" src="https://github.com/TejaswaniRai/TejaswaniRai/blob/main/Coding%20Work%20From%20Home%20GIF%20by%20Alliance.gif?raw=true" width="250"/>
+<p align="left">
+  <img align="right" src="https://github.com/TejaswaniRai/TejaswaniRai/blob/main/Coding%20Work%20From%20Home%20GIF%20by%20Alliance.gif?raw=true" width="250"/>
+
 - 🤝 Open to **collaborations** in open-source, hackathons, and innovative startups  
 - 🏆 Experience in national-level hackathons including:  
-  - Smart India Hackathon (SIH) '24 & '25
-  - InnoFusion 2.0 (UEMK)
-  - IIC B-Plan Pitch Competition (NIT Durgapur)
+  - Smart India Hackathon (SIH) '24 & '25  
+  - InnoFusion 2.0 (UEMK)  
+  - IIC B-Plan Pitch Competition (NIT Durgapur)  
   - Nebula Nexus (Manipal University)
+      
+</p>
 
-
----
 
 ## 🌟 Featured Projects
 
@@ -27,8 +27,7 @@
 - 📄 **Paper Ranking** – AI-powered tool to rank research papers based on novelty and impact.
 - 🧪 **Synthetic Data Generator** – Generates realistic datasets to evaluate research metrics and reproducibility.
 > 🚧 More projects coming soon — stay tuned!
-
----
+    
 
 ## 🧰 Tech Stack
 
@@ -53,7 +52,6 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
----
 
 ## 📊 GitHub Insights
 
@@ -64,7 +62,7 @@
   <br/>
 </p>
 
----
+
 
 ## 📫 Connect with Me
 
