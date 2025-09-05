@@ -7,7 +7,7 @@
 ---
 
 ## 👩‍🎓 About Me
-
+<img src="Coding%20Working%20On%20It%20GIF%20by%20Grind.gif" align="right" width="300" />
 - 🎓 **3rd Year Computer Science (AI/ML) Student** at **Brainware University**
 - 💡 Exploring the intersection of **AI/ML**, **Full Stack Development**, and **Product Thinking**
 - 🤝 Open to **collaborations** in open-source, hackathons, and innovative startups
