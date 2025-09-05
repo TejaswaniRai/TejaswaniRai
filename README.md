@@ -8,21 +8,15 @@
 
 ## 👩‍🎓 About Me
 
-<div style="display: flex; align-items: left; justify-content: space-between;">
-  <div>
+<img align="right" src="https://github.com/TejaswaniRai/TejaswaniRai/blob/main/Coding%20Working%20On%20It%20GIF%20by%20Grind.gif?raw=true" width="250"/>
 
-- 🎓 **3rd Year Computer Science (AI/ML)** Student at Brainware University  
+- 🎓 **3rd Year Computer Science (AI/ML)** Student at **Brainware University**  
 - 💡 Exploring the intersection of **AI/ML, Full Stack Development, and Product Thinking**  
 - 🤝 Open to **collaborations** in open-source, hackathons, and innovative startups  
 - 🏆 Experience in national-level hackathons including:  
   - Smart India Hackathon (SIH)  
   - InnoFusion 2.0  
   - IIC B-Plan Pitch Competition (NIT Durgapur)  
-
-  </div>
-
-  <img src="https://github.com/TejaswaniRai/TejaswaniRai/blob/main/Coding%20Working%20On%20It%20GIF%20by%20Grind.gif?raw=true" align-items: right width="250"/>
-</div>
 
 
 ---
