@@ -17,6 +17,7 @@
   - Nebula Nexus (Manipal University)
       
 </p>
+<br clear="both"/>
 
 
 ## 🌟 Featured Projects
