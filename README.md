@@ -1,8 +1,12 @@
 <h1 align="center">✨ Tejaswani Rai ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FC036F&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Tejaswani+Rai;CSE+Undergrad+(AI/ML)+at+Brainware+University;Exploring+AI%2FML%2C+Full+Stack+Dev+%26+Open+Source" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FC036F&center=true&vCenter=true&width=1000&lines=Exploring+AI%2FML%2C+Full+Stack+Dev+%26+Open+Source+Contribution;CSE-AI+Undergrad+at+Brainware+University" />
 </p>
+
+
+
+
 
 ## 👩‍🎓 About Me
 
@@ -18,7 +22,28 @@
       
 </p>
 <br clear="both"/>
-
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=TejaswaniRai&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  
+  <!-- Followers -->
+  <a href="https://github.com/TejaswaniRai?tab=followers">
+    <img src="https://img.shields.io/github/followers/TejaswaniRai?label=Followers&style=for-the-badge&color=purple" />
+  </a>
+  
+  <!-- Stars -->
+  <a href="https://github.com/TejaswaniRai?tab=stars">
+    <img src="https://img.shields.io/github/stars/TejaswaniRai?label=Stars&style=for-the-badge&color=yellow" />
+  </a>
+  
+  <!-- Pull Requests -->
+  <a href="https://github.com/pulls?q=is%3Apr+author%3ATejaswaniRai">
+    <img src="https://img.shields.io/badge/Pull%20Requests-Open%202-orange?style=for-the-badge" />
+  </a>
+  
+  <!-- Awesome -->
+  <img src="https://img.shields.io/badge/Awesome-Contributor-ff69b4?style=for-the-badge&logo=github" />
+</p>
 
 ## 🌟 Featured Projects
 
@@ -63,15 +88,37 @@
   <br/>
 </p>
 
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TejaswaniRai&theme=radical&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=-1" />
+</p>
 
-## 📫 Connect with Me
+---
 
-- 📧 [tejaswani394@gmail.com](mailto:tejaswani394@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/tejaswani-rai-059a5a288)  
+## 🌐 Connect with Me  
+
+<p align="center">
+  <!-- GitHub -->
+  <a href="https://github.com/TejaswaniRai" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub"/>
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:tejaswani394@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="60" alt="Gmail"/>
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/tejaswani-rai/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  🧡 *Thanks for visiting! Let's innovate and build impactful tech together.*
+  <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=28&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=🧡+Thanks+for+visiting!;🚀+Let's+innovate+and+create+impactful+tech!" alt="Typing Animation" />
 </p>
+
+
