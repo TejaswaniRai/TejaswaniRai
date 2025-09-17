@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 6" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#FFD700"/>
+      <stop offset="16.6%" stop-color="#FF4500"/>
+      <stop offset="33.3%" stop-color="#FF00FF"/>
+      <stop offset="50%" stop-color="#0000FF"/>
+      <stop offset="66.6%" stop-color="#00FFFF"/>
+      <stop offset="83.3%" stop-color="#00FF00"/>
+      <stop offset="100%" stop-color="#FFFF00"/>
+    </linearGradient>
+  </defs>
+  <!-- We draw a wide rectangle filled with the gradient and translate it to create a moving effect -->
+  <rect width="2000" height="6" fill="url(#g)" transform="translate(0,0)">
+    <animateTransform attributeName="transform" attributeType="XML"
+      type="translate" from="0 0" to="-1000 0" dur="3s" repeatCount="indefinite"/>
+  </rect>
+</svg>
