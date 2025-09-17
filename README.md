@@ -5,9 +5,6 @@
 </p>
 
 
-
-
-
 ## 👩‍🎓 About Me
 
 <p align="left">
@@ -19,6 +16,7 @@
   - InnoFusion 2.0 (UEMK)  
   - IIC B-Plan Pitch Competition (NIT Durgapur)  
   - Nebula Nexus (Manipal University)
+    
       
 </p>
 <br clear="both"/>
@@ -45,6 +43,11 @@
   <img src="https://img.shields.io/badge/Awesome-Contributor-ff69b4?style=for-the-badge&logo=github" />
 </p>
 
+<p align="center">
+  <img src="./animated_gradient_line.svg" width="100%" height="3" alt="animated gradient line" />
+</p>
+
+
 ## 🌟 Featured Projects
 
 - 🎮 **DuoDash** – A retro-inspired web game.
@@ -53,7 +56,11 @@
 - 📄 **Paper Ranking** – AI-powered tool to rank research papers based on novelty and impact.
 - 🧪 **Synthetic Data Generator** – Generates realistic datasets to evaluate research metrics and reproducibility.
 > 🚧 More projects coming soon — stay tuned!
-    
+
+<p align="center">
+  <img src="./animated_gradient_line.svg" width="100%" height="3" alt="animated gradient line" />
+</p>
+
 
 ## 🧰 Tech Stack
 
@@ -78,6 +85,11 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+<p align="center">
+  <img src="./animated_gradient_line.svg" width="100%" height="3" alt="animated gradient line" />
+</p>
+
+
 
 ## 📊 GitHub Insights
 
@@ -85,16 +97,15 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tejaswanirai&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswanirai&layout=compact&theme=tokyonight&hide_border=true" />
-  <br/>
 </p>
-
-## 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TejaswaniRai&theme=radical&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=-1" />
 </p>
 
----
+<p align="center">
+  <img src="./animated_gradient_line.svg" width="100%" height="3" alt="animated gradient line" />
+</p>
+
 
 ## 🌐 Connect with Me  
 
@@ -115,7 +126,6 @@
   </a>
 </p>
 
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=28&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=🧡+Thanks+for+visiting!;🚀+Let's+innovate+and+create+impactful+tech!" alt="Typing Animation" />
