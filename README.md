@@ -5,7 +5,7 @@
 </p>
 
 
-## 👩‍🎓 About Me
+<h2 align="center">👩‍🎓 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</h2>
 
 <p align="left">
   <img align="right" src="https://github.com/TejaswaniRai/TejaswaniRai/blob/main/Coding%20Work%20From%20Home%20GIF%20by%20Alliance.gif?raw=true" width="250"/>
@@ -48,42 +48,54 @@
 </p>
 
 
-## 🌟 Featured Projects
+<h2 align="center">🌟 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 🌟</h2>
 
-- 🎮 **DuoDash** – A retro-inspired web game.
-- 🍔 **Brainware Canteen** – Group hackathon project [XiBit - Texibition 2K25] with enhancements beyond the original repo.
-- 💸 **Fintasm** – Solo hackathon project [Nebula Nexus], a mobile-first finance app reimagining personal money management for Gen Z.  
-- 📄 **Paper Ranking** – AI-powered tool to rank research papers based on novelty and impact.
-- 🧪 **Synthetic Data Generator** – Generates realistic datasets to evaluate research metrics and reproducibility.
-> 🚧 More projects coming soon — stay tuned!
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎮 DuoDash</h3>
+      <p>A retro-inspired <b>web game</b>.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🍔 Brainware Canteen</h3>
+      <p>Group hackathon project <i>(XiBit - Texibition 2K25)</i> with <b>enhancements beyond the original repo</b>.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>💸 Fintasm</h3>
+      <p><b>Mobile-first finance app</b> (Nebula Nexus) reimagining money management for <b>Gen Z</b>.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>📄 Paper Ranking</h3>
+      <p>AI-powered tool to <b>rank research papers</b> based on novelty and impact.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🧪 Synthetic Data Generator</h3>
+      <p>Generates <b>realistic datasets</b> to evaluate research metrics and reproducibility.</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🚧 More Coming Soon</h3>
+      <p>Stay tuned for upcoming projects 🚀</p>
+    </td>
+  </tr>
+</table>
+
+
 
 <p align="center">
   <img src="./animated_gradient_line.svg" width="100%" height="3" alt="animated gradient line" />
 </p>
 
 
-## 🧰 Tech Stack
+<h1 align="center">⚡ 𝑫𝒆𝒗 𝑻𝒐𝒐𝒍𝒌𝒊𝒕 ⚡</h1>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,angular,nodejs,tailwind,git,github,vscode,vercel,figma,canva" 
+       height="200" />
+</p>
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚡ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 <p align="center">
   <img src="./animated_gradient_line.svg" width="100%" height="3" alt="animated gradient line" />
