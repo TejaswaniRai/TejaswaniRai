@@ -8,21 +8,31 @@
 <h2 align="center">👩‍🎓 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</h2>
 
 <p align="left">
-  <img align="right" src="https://github.com/TejaswaniRai/TejaswaniRai/blob/main/Coding%20Work%20From%20Home%20GIF%20by%20Alliance.gif?raw=true" width="250"/>
+  <img align="right" src="https://github.com/TejaswaniRai/TejaswaniRai/blob/main/Coding%20Work%20From%20Home%20GIF%20by%20Alliance.gif?raw=true" width="280"/>
 
-- 🤝 Open to **collaborations** in open-source, hackathons, and innovative startups  
-- 🏆 Experience in national-level hackathons including:  
-  - Smart India Hackathon (SIH) '24 & '25  
-  - InnoFusion 2.0 (UEMK)  
-  - IIC B-Plan Pitch Competition (NIT Durgapur)  
-  - Nebula Nexus (Manipal University)
-    
+### 🤝 Let's Collaborate  
+I’m always open to **open-source projects, hackathons, and innovative startup ideas**.  
+
+### 🏆 Hackathon Highlights  
+Here are some events where I’ve showcased my skills:  
+
+- 🎯 **Smart India Hackathon (SIH) '24 & '25**  
+- ⚡ **InnoFusion 2.0 – UEMK**  
+- 💡 **IIC B-Plan Pitch – NIT Durgapur**  
+- 🚀 **Nebula Nexus – Manipal University**  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hackathon-SIH'25-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hackathon-InnoFusion%202.0-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pitch-IIC%20BPlan-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Event-Nebula%20Nexus-green?style=for-the-badge" />
+</p>
+</p>
+
       
 </p>
 <br clear="both"/>
-<p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=TejaswaniRai&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<a href="https://hits.sh/hits.sh/github.com/TejaswaniRai.svg?style=for-the-badge&label=Profile%20Views&color=blueviolet)](https://hits.sh/github.com/TejaswaniRai/)/"><img alt="Hits" src="https://hits.sh/hits.sh/github.com/TejaswaniRai.svg?style=for-the-badge&label=Profile%20Views&color=blueviolet)](https://hits.sh/github.com/TejaswaniRai/).svg?style=for-the-badge"/></a>
   
   <!-- Followers -->
   <a href="https://github.com/TejaswaniRai?tab=followers">
@@ -103,12 +113,11 @@
 
 
 
-## 📊 GitHub Insights
+## 📊 GitHub Insights 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejaswanirai&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswanirai&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tejaswanirai&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswanirai&layout=compact&theme=radical&hide_border=true" height="180" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TejaswaniRai&theme=radical&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=-1" />
