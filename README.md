@@ -26,6 +26,8 @@ Here are some events where I’ve showcased my skills:
   <img src="https://img.shields.io/badge/Hackathon-InnoFusion%202.0-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Pitch-IIC%20BPlan-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Event-Nebula%20Nexus-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tech%20Contributor-Hacktoberfest'25-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tech%20Contributor-GSSoC'25-yellow?style=for-the-badge" />
 </p>
 </p>
 
