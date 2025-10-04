@@ -22,10 +22,6 @@ Here are some events where I’ve showcased my skills:
 - 🚀 **Nebula Nexus – Manipal University**  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Hackathon-SIH'25-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hackathon-InnoFusion%202.0-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pitch-IIC%20BPlan-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Event-Nebula%20Nexus-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tech%20Contributor-Hacktoberfest'25-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tech%20Contributor-GSSoC'25-yellow?style=for-the-badge" />
 </p>
@@ -102,11 +98,12 @@ Here are some events where I’ve showcased my skills:
 </p>
 
 
-<h1 align="center">⚡ 𝑫𝒆𝒗 𝑻𝒐𝒐𝒍𝒌𝒊𝒕 ⚡</h1>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,angular,nodejs,tailwind,git,github,vscode,vercel,figma,canva" 
-       height="200" />
-</p>
+<h2 align="center">⚡ 𝑫𝒆𝒗 𝑻𝒐𝒐𝒍𝒌𝒊𝒕 ⚡</h2>
+
+| Languages | Frameworks | Tools & Platforms | Databases & Libraries |
+|-----------|------------|-----------------|---------------------|
+| <img src="https://skillicons.dev/icons?i=python" height="40" /> <img src="https://skillicons.dev/icons?i=c" height="40" /> <img src="https://skillicons.dev/icons?i=cpp" height="40" /> <img src="https://skillicons.dev/icons?i=js" height="40" /> | <img src="https://skillicons.dev/icons?i=react" height="40" /> <img src="https://skillicons.dev/icons?i=nextjs" height="40" /> <img src="https://skillicons.dev/icons?i=nodejs" height="40" /> <img src="https://skillicons.dev/icons?i=express" height="40" />  <img src="https://skillicons.dev/icons?i=nestjs" height="40" /> | <img src="https://skillicons.dev/icons?i=linux" height="40" /> <img src="https://skillicons.dev/icons?i=git" height="40" /> <img src="https://skillicons.dev/icons?i=gitbash" height="40" /> <img src="https://skillicons.dev/icons?i=matlab" height="40" /> <img src="https://skillicons.dev/icons?i=vite" height="40" /> | <img src="https://skillicons.dev/icons?i=mongodb" height="40" /> <img src="https://skillicons.dev/icons?i=mysql" height="40" /> <img src="https://skillicons.dev/icons?i=bootstrap" height="40" /> <img src="https://skillicons.dev/icons?i=html" height="40" /> <img src="https://skillicons.dev/icons?i=css" height="40" /> |
+
 
 
 <p align="center">
@@ -115,7 +112,7 @@ Here are some events where I’ve showcased my skills:
 
 
 
-## 📊 GitHub Insights 
+<h2 align="center"> 𝑺𝒕𝒂𝒕𝒔 📊</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tejaswanirai&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true" height="180" />
