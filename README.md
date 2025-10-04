@@ -121,13 +121,26 @@ Here are some events where I’ve showcased my skills:
   <img src="https://github-readme-stats.vercel.app/api?username=tejaswanirai&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswanirai&layout=compact&theme=radical&hide_border=true" height="180" />
 </p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TejaswaniRai&theme=radical&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=-1" />
 </p>
 
 <p align="center">
+  <!-- Current Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejaswaniRai&theme=radical" />
+</p>
+
+<p align="center">
+  <!-- Contribution Graph with custom colors -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejaswaniRai&theme=radical&hide_border=true&bg_color=1a1b27&color=c0caf5&line=7aa2f7" />
+</p>
+
+
+<p align="center">
   <img src="./animated_gradient_line.svg" width="100%" height="3" alt="animated gradient line" />
 </p>
+
 
 
 ## 🌐 Connect with Me  
