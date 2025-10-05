@@ -115,23 +115,26 @@ Here are some events where I’ve showcased my skills:
 <h2 align="center"> 𝑺𝒕𝒂𝒕𝒔 📊</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejaswanirai&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaswanirai&layout=compact&theme=radical&hide_border=true" height="180" />
+  <!-- GitHub Stats and Top Languages side by side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TejaswaniRai&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaswaniRai&layout=compact&theme=radical&hide_border=true" height="180" />
 </p>
 
 <p align="center">
+  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=TejaswaniRai&theme=radical&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=-1" />
 </p>
 
 <p align="center">
-  <!-- Current Streak Card -->
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejaswaniRai&theme=radical" />
 </p>
 
 <p align="center">
-  <!-- Contribution Graph with custom colors -->
+  <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejaswaniRai&theme=radical&hide_border=true&bg_color=1a1b27&color=c0caf5&line=7aa2f7" />
 </p>
+
 
 
 <p align="center">
