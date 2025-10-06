@@ -113,12 +113,13 @@ Here are some events where I’ve showcased my skills:
 
 
 <h2 align="center"> 𝑺𝒕𝒂𝒕𝒔 📊</h2>
-
 <p align="center">
   <!-- GitHub Stats and Top Languages side by side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TejaswaniRai&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaswaniRai&layout=compact&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TejaswaniRai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaswaniRai&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
+
+
 
 <p align="center">
   <!-- GitHub Trophies -->
@@ -140,6 +141,7 @@ Here are some events where I’ve showcased my skills:
 <p align="center">
   <img src="./animated_gradient_line.svg" width="100%" height="3" alt="animated gradient line" />
 </p>
+
 
 
 
