@@ -21,10 +21,6 @@ Here are some events where I’ve showcased my skills:
 - 💡 **IIC B-Plan Pitch – NIT Durgapur**  
 - 🚀 **Nebula Nexus – Manipal University**  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tech%20Contributor-Hacktoberfest'25-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tech%20Contributor-GSSoC'25-yellow?style=for-the-badge" />
-</p>
 </p>
 
       
