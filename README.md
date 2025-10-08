@@ -128,8 +128,7 @@ Here are some events where I’ve showcased my skills:
 </p>
 
 <p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejaswaniRai&theme=radical&hide_border=true&bg_color=1a1b27&color=c0caf5&line=7aa2f7" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejaswaniRai&bg_color=0D1117&color=9e4c98&line=9e4c98&point=ffffff&area=true&hide_border=true" alt="TejaswaniRai's contribution graph" />
 </p>
 
 
