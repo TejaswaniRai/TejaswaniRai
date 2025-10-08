@@ -131,7 +131,9 @@ Here are some events where I’ve showcased my skills:
 
 <p align="center">
   <!-- GitHub Stats and Top Languages side by side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TejaswaniRai&show_icons=true&theme=radical" height="120"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TejaswaniRai&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejaswaniRai&theme=radical" />
+
 
 </p>
 <p align="center">
@@ -142,10 +144,6 @@ Here are some events where I’ve showcased my skills:
   <img src="https://github-profile-trophy.vercel.app/?username=TejaswaniRai&theme=radical&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=-1" />
 </p>
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejaswaniRai&theme=radical" />
-</p>
 
 
 
