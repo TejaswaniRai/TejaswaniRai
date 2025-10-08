@@ -133,16 +133,17 @@ Here are some events where I’ve showcased my skills:
   <!-- GitHub Stats and Top Languages side by side -->
   <img src="https://github-readme-stats.vercel.app/api?username=TejaswaniRai&show_icons=true&theme=radical" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejaswaniRai&theme=radical" />
-
-
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TejaswaniRai&theme=radical" alt="TejaswaniRai GitHub Profile Summary Card" />
-</p>
+
 <p align="center">
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=TejaswaniRai&theme=radical&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=-1" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejaswaniRai&theme=react-dark&hide_border=true&area=true&color=ff69b4" alt="Tejaswani's Contributions Graph"/>
+</p>
+
+
 
 
 
