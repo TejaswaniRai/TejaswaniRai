@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FC036F&center=true&vCenter=true&width=1000&lines=Exploring+AI%2FML%2C+Full+Stack+Dev+%26+Open+Source+Contribution;CSE-AI+Undergrad+at+Brainware+University" />
 </p>
 
-
 <h2 align="center">👩‍🎓 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮</h2>
 
 <p align="left">
@@ -109,14 +108,35 @@ Here are some events where I’ve showcased my skills:
 
 
 <h2 align="center"> 𝑺𝒕𝒂𝒕𝒔 📊</h2>
+
+<!-- 🌟 GitHub Profile Summary Cards -->
 <p align="center">
-  <!-- GitHub Stats and Top Languages side by side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TejaswaniRai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejaswaniRai&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <!-- Profile details card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TejaswaniRai&theme=radical" alt="TejaswaniRai's GitHub Profile Summary Card" />
 </p>
 
+<p align="center">
+  <!-- Most used languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TejaswaniRai&theme=radical" />
+  <!-- Most committed languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TejaswaniRai&theme=radical" />
+</p>
 
+<p align="center">
+  <!-- Overall stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TejaswaniRai&theme=radical" />
+  <!-- Productive time card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TejaswaniRai&theme=radical&utcOffset=5.5" />
+</p>
 
+<p align="center">
+  <!-- GitHub Stats and Top Languages side by side -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TejaswaniRai&show_icons=true&theme=radical" height="120"/>
+
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TejaswaniRai&theme=radical" alt="TejaswaniRai GitHub Profile Summary Card" />
+</p>
 <p align="center">
   <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=TejaswaniRai&theme=radical&no-frame=true&no-bg=false&margin-w=10&margin-h=10&column=-1" />
@@ -125,10 +145,6 @@ Here are some events where I’ve showcased my skills:
 <p align="center">
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejaswaniRai&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejaswaniRai&bg_color=0D1117&color=9e4c98&line=9e4c98&point=ffffff&area=true&hide_border=true" alt="TejaswaniRai's contribution graph" />
 </p>
 
 
