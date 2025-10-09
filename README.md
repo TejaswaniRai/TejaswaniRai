@@ -1,3 +1,4 @@
+<h1 align="center">✨ Tejaswani Rai ✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FC036F&center=true&vCenter=true&width=1000&lines=Exploring+AI%2FML%2C+Full+Stack+Dev+%26+Open+Source+Contribution;CSE-AI+Undergrad+at+Brainware+University" />
