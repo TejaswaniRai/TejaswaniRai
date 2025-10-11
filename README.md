@@ -46,6 +46,8 @@ Here are some events where I’ve showcased my skills:
   <img src="https://img.shields.io/badge/Awesome-Contributor-ff69b4?style=for-the-badge&logo=github" />
 </p>
 
+[![An image of @tejaswanirai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tejaswanirai)](https://holopin.io/@tejaswanirai)
+
 <p align="center">
   <img src="./animated_gradient_line.svg" width="100%" height="3" alt="animated gradient line" />
 </p>
