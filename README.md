@@ -125,8 +125,6 @@ Here are some events where I’ve showcased my skills:
 </p>
 
 <p align="center">
-  <!-- Overall stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TejaswaniRai&theme=radical" />
   <!-- Productive time card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TejaswaniRai&theme=radical&utcOffset=5.5" />
 </p>
