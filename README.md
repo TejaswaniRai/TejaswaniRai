@@ -32,62 +32,11 @@ Here are some events where I’ve showcased my skills:
     <img src="https://img.shields.io/github/followers/TejaswaniRai?label=Followers&style=for-the-badge&color=purple" />
   </a>
   
-  <!-- Stars -->
-  <a href="https://github.com/TejaswaniRai?tab=stars">
-    <img src="https://img.shields.io/github/stars/TejaswaniRai?label=Stars&style=for-the-badge&color=yellow" />
-  </a>
-  
-  <!-- Pull Requests -->
-  <a href="https://github.com/pulls?q=is%3Apr+author%3ATejaswaniRai">
-    <img src="https://img.shields.io/badge/Pull%20Requests-Open%202-orange?style=for-the-badge" />
-  </a>
-  
-  <!-- Awesome -->
-  <img src="https://img.shields.io/badge/Awesome-Contributor-ff69b4?style=for-the-badge&logo=github" />
-</p>
-
 [![An image of @tejaswanirai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tejaswanirai)](https://holopin.io/@tejaswanirai)
 
 <p align="center">
   <img src="./animated_gradient_line.svg" width="100%" height="3" alt="animated gradient line" />
 </p>
-
-
-<h2 align="center">🌟 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒅 𝑷𝒓𝒐𝒋𝒆𝒄𝒕𝒔 🌟</h2>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🎮 DuoDash</h3>
-      <p>A retro-inspired <b>web game</b>.</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🍔 Brainware Canteen</h3>
-      <p>Group hackathon project <i>(XiBit - Texibition 2K25)</i> with <b>enhancements beyond the original repo</b>.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>💸 Fintasm</h3>
-      <p><b>Mobile-first finance app</b> (Nebula Nexus) reimagining money management for <b>Gen Z</b>.</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>📄 Paper Ranking</h3>
-      <p>AI-powered tool to <b>rank research papers</b> based on novelty and impact.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🧪 Synthetic Data Generator</h3>
-      <p>Generates <b>realistic datasets</b> to evaluate research metrics and reproducibility.</p>
-    </td>
-    <td align="center" width="50%">
-      <h3>🚧 More Coming Soon</h3>
-      <p>Stay tuned for upcoming projects 🚀</p>
-    </td>
-  </tr>
-</table>
-
 
 
 <p align="center">
