@@ -50,7 +50,7 @@ const tejaswani = {
 
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> 𝚃𝚁𝙾𝙿𝙷𝚈 𝙲𝙰𝚂𝙴
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> BADGE 𝙲𝙰𝚂𝙴
 
 [![An image of @tejaswanirai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tejaswanirai)](https://holopin.io/@tejaswanirai)
 
@@ -86,13 +86,17 @@ const tejaswani = {
 ```javascript
 const hackathons = {
   2024: [
-    "🏅 Smart India Hackathon (SIH)",
-    "⚡ InnoFusion 2.0 - UEMK",
-    "💡 IIC B-Plan Pitch - NIT Durgapur",
-    "🚀 Nebula Nexus - Manipal University"
+    " Smart India Hackathon (SIH)",
+    " InnoFusion 2.0 - UEMK",
+    " IIC B-Plan Pitch - NIT Durgapur",
   ],
   2025: [
-    "🔥 Smart India Hackathon (SIH)",
+    " Smart India Hackathon (SIH)",
+    " Nebula Nexus - Manipal University",
+    " Cosmohack1 - Sourcify community",
+    " Hacker's Premier League - GGSIPU, Delhi",
+    " MOSIP Decode 2025 - IIIT Bangalore",
+    " Hack Synthesis 2.0 - University of Engineering and Management Kolkata",
     "🌟 More Coming Soon..."
   ],
   status: "ALWAYS READY TO COMPETE 🎮"
