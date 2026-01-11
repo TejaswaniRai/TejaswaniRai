@@ -125,6 +125,53 @@ const hackathons = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="35"> 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙽𝚃𝚁𝙸𝙱𝚄𝚃𝙸𝙾𝙽𝚂
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+###  **GSSoC '25**
+**Open Source Developer**
+
+<img src="https://img.shields.io/badge/Status-Completed-gold?style=flat-square&labelColor=000000" />
+
+*Contributed to amazing projects*
+
+</td>
+
+<td align="center" width="33%">
+
+###  **Hacktoberfest '25**
+**Open Source Contributor**
+
+<img src="https://img.shields.io/badge/Status-Completed-gold?style=flat-square&labelColor=000000" />
+
+*Made meaningful PRs*
+
+</td>
+
+<td align="center" width="33%">
+
+###  **SWoC '25**
+**Project Mentor**
+
+<img src="https://img.shields.io/badge/Status-Mentoring-00d4ff?style=flat-square&labelColor=000000" />
+
+*Guiding new contributors*
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> 𝙶𝙸𝚃𝙷𝚄𝙱 𝚂𝚃𝙰𝚃𝚂
 
 <!-- 🌟 GitHub Profile Summary Cards -->
