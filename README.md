@@ -9,8 +9,6 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴
 
-</div>
-
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 <div align="left">
